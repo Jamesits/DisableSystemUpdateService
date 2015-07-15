@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">OK Google, Sleep!</string>
+    <string name="app_name">Disable SystemUpdateService</string>
     <string name="dialog_content">Usage:\n\nThe icon will disapper in the launcher after clicking OK. Every time when your device starts it will do the required work and quit. Everything happens automatically like a magic. Enjoy it!\n\nTo disable it, simply uninstall this app and reboot.\n\nThis app *requires* root. Please grant it root permission forever for your convenience.</string>
     <string name="dialog_button">OK</string>
 
