@@ -37,6 +37,16 @@ You should have received a copy of the GNU General Public License along with thi
 
 ## Thanks
 
- * ucwong: the idea.
+ * @ucwong: the idea.
 
  * [@GhostFlying](https://github.com/GhostFlying): This app is based on his [LocationReportEnabler](https://github.com/GhostFlying/LocationReportEnabler).
+ 
+## References
+
+Without those articles I'll never fond out the solution.
+ 
+  * [[FIX] OxygenOS Wakelock](https://forums.oneplus.net/threads/fix-oxygenos-wakelock.291648/)
+  * [Battery Drain/wakelock Systemupdateservice](https://forums.oneplus.net/threads/battery-drain-wakelock-systemupdateservice.50933/#post-2322634)
+  * [Systemupdateservice Wakelock On Cm11 M7 (Massive Battery Drain)](http://forum.cyanogenmod.org/topic/96459-systemupdateservice-wakelock-on-cm11-m7-massive-battery-drain/)
+  * [[Standard/Minimal GApps][Closed]](http://forum.xda-developers.com/showpost.php?p=53739230&postcount=5031)
+  * [Permanent fix for SystemUpdateService wakelock [OxygenOS]](https://forums.oneplus.net/threads/permanent-fix-for-systemupdateservice-wakelock-oxygenos.293254/)
