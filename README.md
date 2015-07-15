@@ -3,9 +3,7 @@ OK Google, Sleep!
 
 A simple app to fix SystemUpdateService wakelock which keeps your favorite Android device awake and drains much battery.
 
-This app is released "AS IS" and the developer takes no responsibility of any consequence caused by this app.
-
-Fully tested on the following condition:
+Tested on the following condition:
 
  * Hardware: Oneplus One A0001
  * OS: OxygenOS 1.0.0 (A1001_12_150527), Android 5.0.2
@@ -15,7 +13,7 @@ Fully tested on the following condition:
 
 ## Usage
 
-Download it [here](https://github.com/Jamesits/DisableSystemUpdateService/raw/master/releases/ok-google-sleep-1.0.apk).
+Download it [here](https://github.com/Jamesits/DisableSystemUpdateService/raw/master/releases/ok-google-sleep-1.1.apk).
 
 Install the app on your device. Launch it once. Grant it root permission. Enjoy it. 
 
@@ -33,5 +31,6 @@ You should have received a copy of the GNU General Public License along with thi
 
 ## Thanks
 
-@GhostFlying : This app is based on his [LocationReportEnabler](https://github.com/GhostFlying/LocationReportEnabler).
+ * [@GhostFlying](https://github.com/GhostFlying): This app is based on his [LocationReportEnabler](https://github.com/GhostFlying/LocationReportEnabler).
 
+ * ucwong: for the idea.
