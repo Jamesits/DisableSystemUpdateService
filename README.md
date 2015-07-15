@@ -15,6 +15,8 @@ Fully tested on the following condition:
 
 ## Usage
 
+Download it [here](https://github.com/Jamesits/DisableSystemUpdateService/raw/master/releases/ok-google-sleep-1.0.apk).
+
 Install the app on your device. Launch it once. Grant it root permission. Enjoy it. 
 
 It needs to autostart every time your device boots. Don't kill it manually, please.
