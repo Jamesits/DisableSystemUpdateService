@@ -1,7 +1,11 @@
-OK Google, Sleep!
+Disable SystemUpdateService
 =====================
 
-A simple app to fix SystemUpdateService wakelock which keeps your favorite Android device awake and drains much battery.
+OK Google, Sleep!
+
+This a simple app to fix SystemUpdateService wakelock which keeps your favorite Android device awake and drains much battery.
+
+__*ROOT REQUIRED*__
 
 Tested on the following condition:
 
@@ -9,11 +13,9 @@ Tested on the following condition:
  * OS: OxygenOS 1.0.0 (A1001_12_150527), Android 5.0.2
  * Software: Google Play Service version 7.5.74 (1997312-438), Google Services Framework version 5.0.1-1602158
 
-*ROOT REQUIRED*
-
 ## Usage
 
-Download it [here](https://github.com/Jamesits/DisableSystemUpdateService/raw/master/releases/ok-google-sleep-1.1.apk) directly, or view the latest [releases](https://github.com/Jamesits/DisableSystemUpdateService/releases).
+Get it from [Google Play](https://play.google.com/store/apps/details?id=me.swineson.disablesystemupdateservice), or download it [here](https://github.com/Jamesits/DisableSystemUpdateService/raw/master/releases/ok-google-sleep-1.1.apk) directly, or view the latest [releases](https://github.com/Jamesits/DisableSystemUpdateService/releases).
 
 Install the app on your device. Launch it once. Grant it root permission. Enjoy it. 
 
@@ -31,6 +33,6 @@ You should have received a copy of the GNU General Public License along with thi
 
 ## Thanks
 
- * [@GhostFlying](https://github.com/GhostFlying): This app is based on his [LocationReportEnabler](https://github.com/GhostFlying/LocationReportEnabler).
+ * ucwong: the idea.
 
- * ucwong: for the idea.
+ * [@GhostFlying](https://github.com/GhostFlying): This app is based on his [LocationReportEnabler](https://github.com/GhostFlying/LocationReportEnabler).
