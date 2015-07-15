@@ -3,7 +3,13 @@ OK Google, Sleep!
 
 A simple app to fix SystemUpdateService wakelock which keeps your favorite Android device awake and drains much battery.
 
-This app is released "AS IS" and the developer takes no responsibility of any consequense caused by this app.
+This app is released "AS IS" and the developer takes no responsibility of any consequence caused by this app.
+
+Fully tested on the following condition:
+
+ * Hardware: Oneplus One A0001
+ * OS: OxygenOS 1.0.0 (A1001_12_150527), Android 5.0.2
+ * Software: Google Play Service version 7.5.74 (1997312-438), Google Services Framework version 5.0.1-1602158
 
 *ROOT REQUIRED*
 
