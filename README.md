@@ -13,7 +13,7 @@ Tested on the following condition:
 
 ## Usage
 
-Download it [here](https://github.com/Jamesits/DisableSystemUpdateService/raw/master/releases/ok-google-sleep-1.1.apk).
+Download it [here](https://github.com/Jamesits/DisableSystemUpdateService/raw/master/releases/ok-google-sleep-1.1.apk) directly, or view the latest [releases](https://github.com/Jamesits/DisableSystemUpdateService/releases).
 
 Install the app on your device. Launch it once. Grant it root permission. Enjoy it. 
 
