@@ -1,6 +1,9 @@
 Disable SystemUpdateService
 =====================
+
 ![OK Google, Sleep!](https://github.com/Jamesits/DisableSystemUpdateService/raw/master/misc/okgooglesleepheader.png)
+
+----------
 
 This a simple app to fix SystemUpdateService wakelock which keeps your favorite Android device awake and drains much battery.
 
@@ -18,7 +21,7 @@ Tested on the following condition:
 
 Get it from [Google Play](https://play.google.com/store/apps/details?id=me.swineson.disablesystemupdateservice), or view the latest [release](https://github.com/Jamesits/DisableSystemUpdateService/releases).
 
-Install the app on your device. Launch it once. Grant it root permission. Enjoy it. 
+Install the app on your device. Launch it once. Grant it root permission. Forget it. 
 
 It needs to autostart every time your device boots. Don't kill it manually, please.
 
