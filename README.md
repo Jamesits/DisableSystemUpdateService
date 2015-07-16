@@ -43,7 +43,7 @@ You should have received a copy of the GNU General Public License along with thi
  
 ## References
 
-Without those articles I'll never fond out the solution.
+Without those articles I'll never found out the solution.
  
   * [[FIX] OxygenOS Wakelock](https://forums.oneplus.net/threads/fix-oxygenos-wakelock.291648/)
   * [Battery Drain/wakelock Systemupdateservice](https://forums.oneplus.net/threads/battery-drain-wakelock-systemupdateservice.50933/#post-2322634)
