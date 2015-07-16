@@ -13,7 +13,7 @@ __*ROOT REQUIRED*__
 
 Tested on the following condition:
 
- * Hardware: Oneplus One A0001
+ * Hardware: OnePlus One A0001
  * OS: OxygenOS 1.0.0 (A1001_12_150527), Android 5.0.2
  * Software: Google Play Service version 7.5.74 (1997312-438), Google Services Framework version 5.0.1-1602158
 
@@ -33,17 +33,16 @@ This program is free software: you can redistribute it and/or modify it under th
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
-You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.
+You should have received a copy of the GNU General Public License along with this program. If not, see [http://www.gnu.org/licenses/](http://www.gnu.org/licenses/).
 
 ## Thanks
 
- * @ucwong: the idea.
-
+ * @ucwong: gives me the idea to fix it.
  * [@GhostFlying](https://github.com/GhostFlying): This app is based on his [LocationReportEnabler](https://github.com/GhostFlying/LocationReportEnabler).
  
 ## References
 
-Without those articles I'll never found out the solution.
+Without those articles I would never find out the solution.
  
   * [[FIX] OxygenOS Wakelock](https://forums.oneplus.net/threads/fix-oxygenos-wakelock.291648/)
   * [Battery Drain/wakelock Systemupdateservice](https://forums.oneplus.net/threads/battery-drain-wakelock-systemupdateservice.50933/#post-2322634)
